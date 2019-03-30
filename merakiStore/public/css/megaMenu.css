@@ -1,0 +1,46 @@
+
+.mega-dropdown {
+  position: static !important;
+}
+
+.mega-dropdown-menu {
+    
+    width: 100%;
+    background-color: #fdfbfb;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+
+.mega-dropdown-menu > li > ul > li {
+  
+  list-style: none;
+}
+
+.mega-dropdown-menu > li > ul > li > a {
+  
+  display: block;
+  color: #fdfbfb;
+  padding: 3px 5px;
+}
+
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  
+  text-decoration: none;  
+}
+
+.mega-dropdown-menu .dropdown-header {
+
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Droid Sans';
+  text-transform: uppercase;
+  color: #000000;
+  padding: 5px 60px 5px 5px;
+  line-height: 30px;
+}
