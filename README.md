@@ -8,6 +8,10 @@ Following are the pages which constitute the web application.
 
 ![homePage](https://user-images.githubusercontent.com/34600966/55278896-50c6f180-5338-11e9-9c6b-7c7e007f2854.png)
 
+# PRODUCT SUITE DROPDOWN
+
+![prodSuite](https://user-images.githubusercontent.com/34600966/55296864-e481e600-543c-11e9-9164-dde080bc31cf.png)
+
 # FEATURED PRODUCTS PAGE
 
 ![featuredProductsPage](https://user-images.githubusercontent.com/34600966/55278915-8b308e80-5338-11e9-9b6f-9d33b1d9da9f.png)
