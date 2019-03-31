@@ -1,7 +1,9 @@
 # MERAKI STORES WEBSITE DEVELOPMENT
 
-Web Application for Meraki Stores, E-Commerce Based Startup, Custom Merchandise
-The website for Meraki Stores is developed using PHP Laravel Framework. 
+Web Application for Meraki Stores, an e-Commerce based startup in the field of custom merchandise.
+
+The website for Meraki Stores is developed using PHP and Laravel Framework.
+
 Following are the pages which constitute the web application.
 
 # HOME PAGE
